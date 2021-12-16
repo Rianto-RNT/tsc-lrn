@@ -29,7 +29,7 @@ class Customer {
 let myCustomer = new Customer("Rianto", "RNT");
 
 myCustomer.firstName = "Ryan";
-myCustomer.lastName = "Mosrrison";
+myCustomer.lastName = "Morrison";
 
 console.log(myCustomer.firstName);
 console.log(myCustomer.lastName);
